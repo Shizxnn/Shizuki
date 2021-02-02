@@ -7,7 +7,7 @@ Tutorial has been uploaded on YouTube <img src="https://www.youtube.com/about/st
 
 Contributions are always welcomed :D
 <a href="https://github.com/SudhanPlayz/Discord-MusicBot/graphs/contributors">
-  <img src="https://discord.com/channels/@me/799687319300603924/806221133585448960" />
+  <img src="https://cdn.discordapp.com/attachments/799687319300603924/806221133389103145/unknown.png" />
 </a>
 
 Made with :heart: and JavaScript!
