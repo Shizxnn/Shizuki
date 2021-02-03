@@ -1,7 +1,9 @@
-<h1 align="centre">License</h1>
+<h1 align="centre">Licencia de shizuki</h1>
 
-1. You can't use your own credits
-2. You can modify the codes(but you cant edit the credits)
-3. You can't redistribute
-4. You can use this code for public projects only
-5. If you are making a Discord bot you can use it only as Private Bot. Not public
+1. shizuki es un bot que he prigramado yo 
+2.No puedes modificar el codigo del bot 
+3. No puedes poublicarlo
+4. Puede usar este código solo para proyectos públicos
+5. Si estás creando un bot de Discord, puedes usarlo solo como bot privado. No publico
+
+Shizxn#1234
